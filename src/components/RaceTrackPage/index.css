@@ -1,0 +1,21 @@
+.timer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkgreen;
+  color: white;
+  height: 50vh;
+  width: 50vh;
+  border-radius: 50%;
+}
+.time {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: chocolate;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  padding: 40px;
+}
